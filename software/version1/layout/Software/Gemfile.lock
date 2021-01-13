@@ -92,7 +92,7 @@ GEM
     rb-fsevent (0.9.1)
     rb-inotify (0.8.8)
       ffi (>= 0.5.0)
-    redcarpet (2.1.1)
+    redcarpet (3.5.1)
     rubypython (0.5.3)
       blankslate (>= 2.1.2.3)
       ffi (~> 1.0.7)
